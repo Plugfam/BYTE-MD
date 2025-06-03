@@ -1,11 +1,11 @@
 services:
   - type: web
     plan: free
-    name: x-byte-md
+    name: Plugfam-md
     runtime: docker
     region: Frankfurt
     branch: V-2.00
-    repo: https://github.com/HyHamza/X-BYTE-MD
+    repo: https://github.com/Plugfam/BYTE-MD/edit/main/render.yml
     #buildCommand: |
     #  apt-get update && \
     #  apt-get install -y ffmpeg && \
