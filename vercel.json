@@ -3,14 +3,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "Hamza.js", 
+      "src": "Salifu.js", 
       "use": "@vercel/node"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "Hamza.js"
+      "dest": "Salifu.js"
     }
   ]
 }
