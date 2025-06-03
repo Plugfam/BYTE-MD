@@ -1,13 +1,13 @@
 {
   "name": "BYTE-MD",
-  "description": "BYTE-MD made for people on Earth",
+  "description": "SALIFU-MD made for people on Earth",
   "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/refs/heads/main/Images/XByte-logo.png",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put your SESSION_ID here. Make sure it starts with Byte;;;, or get session id from here, https://session.talkdrove.com",
+      "description": "Put your SESSION_ID here. Make sure it starts with Salifu;;;, or get session id from here, https://session.talkdrove.com",
       "value":"",
       "required": true
       
